@@ -35,14 +35,11 @@ Repository Structure
 
 
 *Office world Features*
-
-![Screenshot from 2022-06-16 23-44-50](https://user-images.githubusercontent.com/50603442/174172150-f6e17f1a-1d27-4366-bb02-e886be2ea067.png)
-
+![Screenshot from 2022-06-24 01-39-39](https://user-images.githubusercontent.com/50603442/175432244-beafe667-3496-4b6b-8f80-6ba4d2bb2473.png)
 
 
 *Robot Model*
-![Screenshot from 2022-06-16 23-54-21](https://user-images.githubusercontent.com/50603442/174185302-48c2ce88-15b0-435b-b5ab-9c3649a6fe4f.png)
-
+![Screenshot from 2022-06-24 01-41-20](https://user-images.githubusercontent.com/50603442/175432380-9adfd455-114d-486e-b157-3cdd0f866b3d.png)
 
 
 ### Key Takeaways
