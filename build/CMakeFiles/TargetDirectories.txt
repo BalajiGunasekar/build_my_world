@@ -1,3 +1,0 @@
-/home/pavan/build_my_world/build/CMakeFiles/rebuild_cache.dir
-/home/pavan/build_my_world/build/CMakeFiles/edit_cache.dir
-/home/pavan/build_my_world/build/CMakeFiles/message.dir
